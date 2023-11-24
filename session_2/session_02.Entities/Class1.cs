@@ -31,7 +31,7 @@ public class Person
     public string Family 
     {
         get { return _family; }
-        set { _name = value.Length > 1 ? value : "_DEFAULT_FAMILY";}
+        set { _family = value.Length > 1 ? value : "_DEFAULT_FAMILY";}
     }
  
     public string SSN
