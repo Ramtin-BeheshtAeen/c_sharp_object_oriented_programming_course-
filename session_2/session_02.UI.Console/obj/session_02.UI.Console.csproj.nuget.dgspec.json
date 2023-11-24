@@ -1,0 +1,112 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projects\\c_sharp_object_oriented_programming_course-\\session_2\\session_02.UI.Console\\session_02.UI.Console.csproj": {}
+  },
+  "projects": {
+    "D:\\Projects\\c_sharp_object_oriented_programming_course-\\session_2\\session_02.Entities\\session_02.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\c_sharp_object_oriented_programming_course-\\session_2\\session_02.Entities\\session_02.Entities.csproj",
+        "projectName": "session_02.Entities",
+        "projectPath": "D:\\Projects\\c_sharp_object_oriented_programming_course-\\session_2\\session_02.Entities\\session_02.Entities.csproj",
+        "packagesPath": "C:\\Users\\Surface\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\c_sharp_object_oriented_programming_course-\\session_2\\session_02.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Surface\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\c_sharp_object_oriented_programming_course-\\session_2\\session_02.UI.Console\\session_02.UI.Console.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\c_sharp_object_oriented_programming_course-\\session_2\\session_02.UI.Console\\session_02.UI.Console.csproj",
+        "projectName": "session_02.UI.Console",
+        "projectPath": "D:\\Projects\\c_sharp_object_oriented_programming_course-\\session_2\\session_02.UI.Console\\session_02.UI.Console.csproj",
+        "packagesPath": "C:\\Users\\Surface\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\c_sharp_object_oriented_programming_course-\\session_2\\session_02.UI.Console\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Surface\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Projects\\c_sharp_object_oriented_programming_course-\\session_2\\session_02.Entities\\session_02.Entities.csproj": {
+                "projectPath": "D:\\Projects\\c_sharp_object_oriented_programming_course-\\session_2\\session_02.Entities\\session_02.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

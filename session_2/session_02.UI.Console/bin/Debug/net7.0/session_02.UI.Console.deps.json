@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "session_02.UI.Console/1.0.0": {
+        "dependencies": {
+          "session_02.Entities": "1.0.0"
+        },
+        "runtime": {
+          "session_02.UI.Console.dll": {}
+        }
+      },
+      "session_02.Entities/1.0.0": {
+        "runtime": {
+          "session_02.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "session_02.UI.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "session_02.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
