@@ -2,7 +2,7 @@
 // https://www.authorcode.com/creating-a-class-library-with-c-and-net-core-in-visual-studio-code/
 namespace session_02.Entities;
 
-public Person1
+public class Person
 {
     // Field: Private
     private int _id;
@@ -25,13 +25,13 @@ public Person1
     public string Name 
     {
         get { return _name; }
-        set { _name = value.Length > 1 ? value : "_DEFAULT_NAME"}
+        set { _name = value.Length > 1 ? value : "_DEFAULT_NAME";}
     }
 
     public string Family 
     {
         get { return _family; }
-        set { _name = value.Length > 1 ? value : "_DEFAULT_FAMILY"}
+        set { _name = value.Length > 1 ? value : "_DEFAULT_FAMILY";}
     }
  
     public string SSN
@@ -42,11 +42,11 @@ public Person1
             if (value.Length == 10)
              _ssn = value;
             else
-                _ssn = "0000000000" 
+                _ssn = "0000000000" ;
         }
     }
 
-    public DateTime _birthday
+    public DateTime BirthDay
     {
         get { return _birthday; }
         set { _birthday = value; }
@@ -54,6 +54,10 @@ public Person1
 
     //Propfull + tab + tab 
     private int _telephoneNumber;
+    //XML Comment:
+    /// <summary>
+    /// Get the Telephone Number of the user:
+    /// </summary>
     public int TelephoneNumber
     {
         get { return _telephoneNumber; }
@@ -67,22 +71,22 @@ public Person1
     {
         get
         {
-             return IsMarries ? "متاهل" : "مجرد";
+             return IsMarried ? "متاهل" : "مجرد";
         }
     }
 
     
 
     //--------------Constructor-------------------
-    // It must have the same name with our file.cs
-    public Class1()
+    // It must have the same name with our class's name
+    public Person()
     {
         this.ID = 1000;
         this.IsMarried = false;
         this.Name = "";
         this.Family = "";
-        this.SSN = "99"
-        this.TelephoneNumber = "99"
+        this.SSN = "99";
+        this.TelephoneNumber = 99;
     }
 
 }

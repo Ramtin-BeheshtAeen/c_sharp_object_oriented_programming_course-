@@ -1,0 +1,11 @@
+D:\Projects\c_sharp_object_oriented_programming_course-\session_2\session_02.Entities\obj\Debug\net7.0\session_02.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\c_sharp_object_oriented_programming_course-\session_2\session_02.Entities\obj\Debug\net7.0\session_02.Entities.AssemblyInfoInputs.cache
+D:\Projects\c_sharp_object_oriented_programming_course-\session_2\session_02.Entities\obj\Debug\net7.0\session_02.Entities.AssemblyInfo.cs
+D:\Projects\c_sharp_object_oriented_programming_course-\session_2\session_02.Entities\obj\Debug\net7.0\session_02.Entities.csproj.CoreCompileInputs.cache
+D:\Projects\c_sharp_object_oriented_programming_course-\session_2\session_02.Entities\bin\Debug\net7.0\session_02.Entities.deps.json
+D:\Projects\c_sharp_object_oriented_programming_course-\session_2\session_02.Entities\bin\Debug\net7.0\session_02.Entities.dll
+D:\Projects\c_sharp_object_oriented_programming_course-\session_2\session_02.Entities\bin\Debug\net7.0\session_02.Entities.pdb
+D:\Projects\c_sharp_object_oriented_programming_course-\session_2\session_02.Entities\obj\Debug\net7.0\session_02.Entities.dll
+D:\Projects\c_sharp_object_oriented_programming_course-\session_2\session_02.Entities\obj\Debug\net7.0\refint\session_02.Entities.dll
+D:\Projects\c_sharp_object_oriented_programming_course-\session_2\session_02.Entities\obj\Debug\net7.0\session_02.Entities.pdb
+D:\Projects\c_sharp_object_oriented_programming_course-\session_2\session_02.Entities\obj\Debug\net7.0\ref\session_02.Entities.dll
